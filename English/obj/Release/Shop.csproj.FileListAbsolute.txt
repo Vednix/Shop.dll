@@ -1,0 +1,5 @@
+C:\Users\fabio\Downloads\Shop\English\bin\Shop.dll
+C:\Users\fabio\Downloads\Shop\English\bin\Shop.pdb
+C:\Users\fabio\Downloads\Shop\English\obj\Release\Shop.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\Shop\English\obj\Release\Shop.dll
+C:\Users\fabio\Downloads\Shop\English\obj\Release\Shop.pdb

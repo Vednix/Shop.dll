@@ -15,3 +15,8 @@ D:\Downloads\Compressed\Source Code\Shop-master\English\bin\Debug\Wolfje.Plugins
 D:\Downloads\Compressed\Source Code\Shop-master\English\obj\Debug\Shop(en).csprojResolveAssemblyReference.cache
 D:\Downloads\Compressed\Source Code\Shop-master\English\obj\Debug\Shop v1.3.dll
 D:\Downloads\Compressed\Source Code\Shop-master\English\obj\Debug\Shop v1.3.pdb
+C:\Users\fabio\Downloads\Shop\English\bin\Debug\Shop v1.3.dll
+C:\Users\fabio\Downloads\Shop\English\bin\Debug\Shop v1.3.pdb
+C:\Users\fabio\Downloads\Shop\English\obj\Debug\Shop(en).csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\Shop\English\obj\Debug\Shop v1.3.dll
+C:\Users\fabio\Downloads\Shop\English\obj\Debug\Shop v1.3.pdb
